@@ -13,3 +13,9 @@ python:
   install:
     - method: pip
       path: .
+
+formats:
+  - pdf
+
+submodules:
+  include: all
